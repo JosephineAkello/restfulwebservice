@@ -19,3 +19,4 @@ public class GreetingController {
           String.format(template, name));
  }
 }
+//This class handles get requests for greeting by returning a new instance of greeting
